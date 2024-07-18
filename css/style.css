@@ -38,8 +38,7 @@
 	width: 650px;
 }
 
-.lamins{
-	width: 100px;
+.lmoe{
 	height: 100px;
 	background-color: red;
 	position: relative;
@@ -52,8 +51,4 @@
  	25%  {top: 200px;}
   	75%  {top: 50px}
   	100% {top: 100px;}
-}
-.lmoe{
-	width: 100px;
-	height: 100px;
 }
