@@ -1,0 +1,49 @@
+.bacheksa{
+
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url(https://scontent.ftbs8-1.fna.fbcdn.net/v/t39.30808-6/378780647_9969490113092127_5786326309355707619_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aY2cFpDduagQ7kNvgGDHjWG&_nc_ht=scontent.ftbs8-1.fna&oh=00_AYCeelgfIcsOR7UM1ksl18OhnXOcGWIIN11Sof9s1xX3tw&oe=669EDA6A);
+	transition-property: all;
+	transition-duration: 3s;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.bacheksa:hover{
+	background-image: url(https://png.pngtree.com/png-vector/20231224/ourmid/pngtree-hand-gesturing-with-middle-finger-finger-png-image_11213293.png);
+}
+
+.more{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 25px;
+}
+.meore{
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	background-image: url(https://scontent.ftbs8-1.fna.fbcdn.net/v/t1.6435-9/116263658_4141983435842853_326133688883151997_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=53a332&_nc_ohc=BTy5pK19XOcQ7kNvgFEMplT&_nc_ht=scontent.ftbs8-1.fna&oh=00_AYDhRTc6MDMTNaKc07WD20ezmmgl6PXwQbquzEN4MOM-jA&oe=66C0833A);
+	background-repeat: no-repeat;
+	transition-property: all;
+	transition-duration: 3s;
+	display: inline-block;
+	vertical-align: middle;
+	transition-delay: 2s;
+	margin-left: 40px; 
+}
+.meore:hover{
+	background-image: url(https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Hearts-PNG/Red_Heart_Transparent_PNG_Image.png?m=1629806779);
+	width: 650px;
+}
+.sityva{
+	text-align: right;
+	text-align: 20px;
+	text-align: top;
+	margin-bottom: 80px;
+	vertical-align: top;
+}
+.meoresityva {
+	vertical-align: top;
+}
