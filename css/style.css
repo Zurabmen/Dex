@@ -37,3 +37,19 @@
 	background-image: url(https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Hearts-PNG/Red_Heart_Transparent_PNG_Image.png?m=1629806779);
 	width: 650px;
 }
+
+.lamins{
+	width: 500px;
+	height: 500px;
+	background-color: red;
+	position: relative;
+	animation: lamine 5s infinite;
+
+}
+
+@keyframes lamine {
+	0% {top: 0px;}
+ 	25%  {top: 200px;}
+  	75%  {top: 50px}
+  	100% {top: 100px;}
+}
