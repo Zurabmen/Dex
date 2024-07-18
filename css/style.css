@@ -39,8 +39,8 @@
 }
 
 .lamins{
-	width: 500px;
-	height: 500px;
+	width: 100px;
+	height: 100px;
 	background-color: red;
 	position: relative;
 	animation: lamine 5s infinite;
