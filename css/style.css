@@ -42,6 +42,7 @@
 	height: 100px;
 	background-color: red;
 	animation: lamine 5s infinite;
+	position: relative;
 
 }
 
